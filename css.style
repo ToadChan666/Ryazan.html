@@ -1,0 +1,103 @@
+css.style
+header {
+    color:#F8EE04;
+    font-family:sans-serif ;
+    background-color:#C00000;
+}
+.icon{
+    background-color:#B90000;
+    color:#F8EE04;
+     padding: 5px;
+    margin: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-family:Luminari, fantasy;
+}
+.ic{
+    background-color:#F8EE04;
+    color:#B40E04;
+     padding: 5px;
+    margin: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-family: Luminari, fantasy;
+}
+.on{
+    background-color:#B40E04;
+    color:#F8EE04;
+     padding: 5px;
+    margin: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-family:Luminari, fantasy;
+
+}
+h2 {
+    font-family:Bradley Hand, cursive;
+    background-color:darkmagenta;
+    color:white;
+   text-align:center;
+}
+h3{
+    font-family:Bradley Hand, cursive;
+    background-color:darkmagenta;
+    color:white; 
+}
+body{
+   background-color:#550000;
+}  
+ header img{
+    height:160px;
+    width:160px;
+text-align:left;
+}
+.m{
+    height:150px;
+    width:200px;
+}
+ h4 {
+      font-family:Bradley Hand, cursive;
+    background-color:darkmagenta;
+    color:white;
+    text-align:right;
+ }
+ .y{
+      background-color:#B40E04;
+    color:#F8EE04;
+    font-family:Trattatello, fantasy;
+
+
+ }
+ p {
+     color:#F8EE04;
+     background-color:#B40E04;
+     font-family:sans-serif;
+ }
+ img p{
+     height:100px;
+     width: 100px;
+ }
+ .p{
+     background-color:#F8EE04;
+    color:#B40E04;
+    font-family: Trattatello, fantasy;
+ }
+ .q{
+    background-color:#B40E04;
+    color:#F8EE04;
+    font-family:Trattatello, fantasy ;  
+ }
+ .t{
+      background-color:#B40E04;
+    color:#F8EE04;
+    font-family: sans-serif;
+ }
+ .MATEWA{
+     width:150px;
+     height: 300px;
+ }
+ footer{
+       color:#F8EE04;
+    font-family:sans-serif ;
+    background-color:#C00000;
+ }
